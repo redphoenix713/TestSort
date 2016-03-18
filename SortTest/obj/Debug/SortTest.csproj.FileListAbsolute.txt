@@ -1,0 +1,8 @@
+D:\Misc\DemSort\SortTest\bin\Debug\SortTest.dll
+D:\Misc\DemSort\SortTest\bin\Debug\SortTest.pdb
+D:\Misc\DemSort\SortTest\bin\Debug\DemSort.exe
+D:\Misc\DemSort\SortTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Misc\DemSort\SortTest\bin\Debug\DemSort.pdb
+D:\Misc\DemSort\SortTest\obj\Debug\SortTest.csprojResolveAssemblyReference.cache
+D:\Misc\DemSort\SortTest\obj\Debug\SortTest.dll
+D:\Misc\DemSort\SortTest\obj\Debug\SortTest.pdb

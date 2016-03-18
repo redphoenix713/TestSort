@@ -1,0 +1,6 @@
+D:\Misc\DemSort\DemSort\bin\Debug\DemSort.exe.config
+D:\Misc\DemSort\DemSort\bin\Debug\DemSort.exe
+D:\Misc\DemSort\DemSort\bin\Debug\DemSort.pdb
+D:\Misc\DemSort\DemSort\obj\Debug\DemSort.csprojResolveAssemblyReference.cache
+D:\Misc\DemSort\DemSort\obj\Debug\DemSort.exe
+D:\Misc\DemSort\DemSort\obj\Debug\DemSort.pdb
